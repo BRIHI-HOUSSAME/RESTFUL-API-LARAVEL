@@ -27,7 +27,7 @@ This project is a RESTful API built with Laravel. The API allows CRUD operations
    
 6. Run the server:
    ```bash
-  php artisan serve
+   php artisan serve
 
 ## API Endpoints
 
